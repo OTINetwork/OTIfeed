@@ -7,4 +7,4 @@ Notizie e feed locali regione per regione, offerti per voi su Telegram dal team 
 - ottima fonte è la mappa [L'Italia su Telegram](www.google.com/maps/d/u/0/viewer?mid=1ia9SZdcDResUNLKMyJazDbgoo_M&ll=45.66482567297087%2C10.24599908369487), da cui c'è da prelevare ancora molto materiale (controllando con cura che i [GCB](https://telegram.me/guidatelegram/41) siano ancora attivi!!!)
 
 Se avete dubbi, potete contattarmi [qui](t.me/@OTIfeedBot).
-Grazie!
+Grazie! esempio di edit da parte di un utente
